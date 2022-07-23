@@ -1,0 +1,1 @@
+import{a}from"../../react-vendor.49242b7f.js";import{g as o}from"../utils/handleMDS.092e0f6b.js";const f=s=>{const t=o("packages");let r=[];return s?r=t.map(e=>{if(e.tags.indexOf(s)!==-1)return e}).filter(e=>e):r=t,a.exports.useMemo(()=>({renderList:r}),[s])};export{f as u};

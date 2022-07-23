@@ -1,0 +1,1 @@
+import{R as e}from"../react-vendor.49242b7f.js";import{c as t}from"../vendor.cddda295.js";import{A as o}from"./App.0cbd5390.js";import{j as r}from"../react/jsx-runtime.9d3c09ab.js";t.createRoot(document.getElementById("root")).render(r(e.StrictMode,{children:r(o,{})}));

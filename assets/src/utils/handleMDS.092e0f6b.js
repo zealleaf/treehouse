@@ -1,0 +1,1 @@
+import{m as n}from"../../mdSource/index.dd8df678.js";const i=t=>n[t||"all"].map(a=>{const{path:r="",title:e="",date:o="",summary:s="",tags:d=[]}=a;return{path:r,title:e,date:o,summary:s,tags:d}}),l=(t="",a)=>{var r;return((r=n[a||"all"].find(e=>e.path===t||e.key===t||e.redirect===t))==null?void 0:r.content())||!1};export{l as a,i as g};
