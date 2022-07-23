@@ -1,0 +1,1 @@
+import a from"./index.dd652248.js";import s from"./index.5432aa42.js";import{a as d,j as r}from"./index.3e7e88a7.js";import{b as o}from"./react-router-dom.29bc8699.js";import"./react.eb29dc54.js";import"./handleMDS.853d3b8f.js";import"./react-dom.de7e8a97.js";function x(){const{tagId:e}=o();return d("div",{children:[r(a,{tagId:e}),r(s,{tagId:e})]})}export{x as default};

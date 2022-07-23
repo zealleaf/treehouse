@@ -1,1 +1,0 @@
-import{a as o}from"../../react-vendor.49242b7f.js";import{g as n}from"../utils/handleMDS.092e0f6b.js";const u=()=>{const r=n(),a=Array.from(new Set(r.map(t=>t.tags).flat())).map(t=>{const s={};return s.name=t,s.count=0,r.map(e=>{e.tags.indexOf(t)!==-1&&s.count++}),s});return o.exports.useMemo(()=>({markdownList:r,renderList:a}),[])};export{u};

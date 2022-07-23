@@ -1,0 +1,1 @@
+import{j as e,F as r}from"./index.3e7e88a7.js";import"./react.eb29dc54.js";import"./react-dom.de7e8a97.js";import"./react-router-dom.29bc8699.js";function d(t){return e(r,{children:"TODO"})}export{d as default};

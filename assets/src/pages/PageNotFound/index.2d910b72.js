@@ -1,1 +1,0 @@
-import{j as r}from"../../../react/jsx-runtime.9d3c09ab.js";import"../../../vendor.cddda295.js";import"../../../react-vendor.49242b7f.js";import"../../../_commonjsHelpers.b8add541.js";const e="_wrap_13ejb_1",s="_img404_13ejb_11";var a={wrap:e,img404:s};function o(){return r("div",{className:a.wrap,children:r("div",{className:a.img404})})}export{o as default};

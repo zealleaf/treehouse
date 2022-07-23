@@ -1,0 +1,1 @@
+import{j as e}from"./index.3e7e88a7.js";import"./react.eb29dc54.js";import"./react-dom.de7e8a97.js";import"./react-router-dom.29bc8699.js";const a="_wrap_13ejb_1",t="_img404_13ejb_11";var r={wrap:a,img404:t};function c(){return e("div",{className:r.wrap,children:e("div",{className:r.img404})})}export{c as default};

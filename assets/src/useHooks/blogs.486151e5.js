@@ -1,1 +1,0 @@
-import{a as o}from"../../react-vendor.49242b7f.js";import{g as i}from"../utils/handleMDS.092e0f6b.js";const f=s=>{const t=i("blogs");let r=[];return s?r=t.map(e=>{if(e.tags.indexOf(s)!==-1)return e}).filter(e=>e):r=t,o.exports.useMemo(()=>({renderList:r}),[s])};export{f as u};
